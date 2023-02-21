@@ -11,7 +11,7 @@ export default function Home() {
       </ol>
       <article>
         <h2>Welcome</h2>
-        Hello, WEB!!
+        Hello, WEB!!@@@###@@@
       </article>
       <ul>
         <li><Link href="/create">Create</Link></li>
